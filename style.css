@@ -1,0 +1,33 @@
+body {
+  background-image: url(passengerbackground.jpg);
+  text-align: center;
+  background-size: cover;
+  font-weight: bold;
+  margin-top: 50px;
+}
+background-image {
+  opacity: 100%;
+}
+#increase {
+  border-radius: 8px;
+  background-color: rgba(187, 0, 255, 0.968);
+  color: aliceblue;
+  font-size: 30px;
+  padding: 15px 32px;
+}
+h1 {
+  color: rgb(20, 32, 2);
+}
+#save {
+  border-radius: 8px;
+  background-size: 40px;
+  background-color: rgba(78, 36, 192, 0.822);
+  color: aliceblue;
+  font-size: 32px;
+  padding: 15px 62px;
+}
+#save-el {
+  color: rgba(8, 177, 250, 0.913);
+  font-weight: bolder;
+  font-size: 30px;
+}
